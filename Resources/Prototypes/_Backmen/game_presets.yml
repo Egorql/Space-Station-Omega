@@ -19,7 +19,7 @@
   - bloodsucker
   name: vampires-title
   description: vampires-description
-  showInVote: false
+  showInVote: true
   rules:
   - VampiresGameRule
   - BasicStationEventScheduler
@@ -34,7 +34,7 @@
   - blab
   name: blob-title
   description: blob-description
-  showInVote: false
+  showInVote: true
   rules:
   - BlobGameMode
   - CalmStationEventScheduler
@@ -50,7 +50,7 @@
   - fs
   name: flesh-cult-title
   description: flesh-cult-description
-  showInVote: false
+  showInVote: true
   rules:
   - FleshCult
   - CalmStationEventScheduler
@@ -191,8 +191,8 @@
     - survival
     - nukeops
   name: survival-nukeops-title
-  showInVote: false
-  minPlayers: 40
+  showInVote: true
+  minPlayers: 25
   description: survival-nukeops-description
   rules:
     - RampingStationEventScheduler
