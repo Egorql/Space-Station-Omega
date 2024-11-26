@@ -189,7 +189,7 @@ namespace Content.Client.Lobby
             if (_gameTicker.ServerInfoBlob != null)
             {
                 Lobby!.ServerInfo.SetInfoBlob(_gameTicker.ServerInfoBlob);
-                Lobby!.LabelName.SetMarkup("[font=\"Bedstead\" size=20] BackMen And Ataraxia [/font]"); // WD EDIT
+                Lobby!.LabelName.SetMarkup("[font=\"Bedstead\" size=20] Omega Station 14 [/font]"); // WD EDIT
                 Lobby!.ChangelogLabel.SetMarkup(Loc.GetString("ui-lobby-changelog")); // WD EDIT
             }
         }
