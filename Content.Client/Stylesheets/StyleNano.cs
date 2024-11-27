@@ -97,12 +97,12 @@ namespace Content.Client.Stylesheets
         public static readonly Color DisabledFore = Color.FromHex("#5A5A5A");
 
         // WD EDIT
-        public static readonly Color ButtonColorDefault = Color.FromHex("#29282f");
-        public static readonly Color ButtonColorDefaultRed = Color.FromHex("#992327");
-        public static readonly Color ButtonColorHovered = Color.FromHex("#3f3d48");
-        public static readonly Color ButtonColorHoveredRed = Color.FromHex("#4D5D53");
-        public static readonly Color ButtonColorPressed = Color.FromHex("#0f0f0f");
-        public static readonly Color ButtonColorDisabled = Color.FromHex("#0f0f0f");
+        public static readonly Color ButtonColorDefault = Color.FromHex("#313347");
+        public static readonly Color ButtonColorDefaultRed = Color.FromHex("#470607");
+        public static readonly Color ButtonColorHovered = Color.FromHex("#676e73");
+        public static readonly Color ButtonColorHoveredRed = Color.FromHex("#74818f");
+        public static readonly Color ButtonColorPressed = Color.FromHex("#1d334a");
+        public static readonly Color ButtonColorDisabled = Color.FromHex("#1d334a");
         // WD EDIT
 
 
