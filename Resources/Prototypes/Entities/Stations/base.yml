@@ -85,6 +85,7 @@
         mining: !type:GridSpawnGroup
           paths:
           - /Maps/Shuttles/corvax_mining.yml
+          - /Maps/Ruins/USG_Salvager.yml
         # Corvax-Mining-End
 
 - type: entity
