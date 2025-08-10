@@ -1,0 +1,8 @@
+let b = 2;
+
+function(b) {
+let c = b + 2
+return c
+}
+
+//ыыыыыыыыыыы
